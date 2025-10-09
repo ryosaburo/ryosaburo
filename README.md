@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Skill
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,nodejs)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryosaburo
+)](https://github.com/anuraghazra/github-readme-stats)
+
 
