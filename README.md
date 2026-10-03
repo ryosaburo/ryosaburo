@@ -10,4 +10,4 @@ Hi,I'm ryosaburo
 
 ## | Activity🎊
 - ハックツハッカソン 〜イクチオカップ〜 🏆️優秀賞 (2025-09) [作品](https://topaz.dev/projects/8b2807a4a9c0881464b9)
-
+- HACK SONIC 🏆優勝（2026-09）[作品](https://hack-sonic.vercel.app/)
